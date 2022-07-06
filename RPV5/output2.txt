@@ -1,0 +1,3 @@
+Placed router in cell 311 142
+Il router copre 224 celle.
+Covered: 224
